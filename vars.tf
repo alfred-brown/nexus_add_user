@@ -11,7 +11,7 @@ variable "db_master_password" {
 variable "name" {
   type        = string 
   description = "Name of password"
-  default = "nessus"
+  default = "nexus"
 }
 
 variable "region" {
